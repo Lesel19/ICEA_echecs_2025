@@ -33,7 +33,7 @@ class MenuUI:
 
         self.title_label = tk.Label(
             self.menu_frame,
-            text="Bienvenue dans mon jeu chess game",
+            text="Bienvenue dans le jeu chess game ICEA",
             font=("Arial", 18, "bold"),
             fg="white", bg="black"
         )
