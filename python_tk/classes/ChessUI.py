@@ -6,7 +6,7 @@ from datetime import date
 from PIL import Image, ImageTk
 from chess_ICEA_main import *  # Contient probablement les constantes (ex : START_POSITION)
 from classes.Check_pieces import CheckPieces  # Classe pour vérifier les mouvements valides
-
+#bhdnhjebbcez
 class ChessUI:
     def __init__(self, main_window, root_frame, board_size, square_size, retour_menu_callback=None):
         # Initialisation de l’interface utilisateur pour le jeu d’échecs
