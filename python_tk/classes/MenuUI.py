@@ -40,7 +40,7 @@ class MenuUI:
             # self.root.iconbitmap(r"..\images\chess.ico")
         except Exception as e:
             print(f"Logo could not be loaded: {e}")  # Affiche l'erreur si le logo échoue
-
+        #gcbjdhbcd
         # --- Titre de l'application ---
         self.title_label = tk.Label(
             self.menu_frame,
